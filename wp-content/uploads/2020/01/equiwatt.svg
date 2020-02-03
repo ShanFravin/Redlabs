@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="625px" height="646px" viewBox="0 0 625 646" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 219.109866 44.8928672 0 190.57877 0 130.510104 184.052288 188.287418 184.052288 12.9549499 439.718444 62.6155912 219.109866"></polygon>
+        <path d="M0.616592193,307.355683 C0.616592193,479.852475 140.245534,619.69931 312.503961,619.69931 C484.75362,619.69931 624.4001,479.843693 624.4001,307.355683 C624.4001,180.6022 548.969078,71.5699663 440.636732,22.6125967 L406.814661,129.484559 C470.337368,163.32881 513.603662,230.270878 513.603662,307.355683 C513.603662,418.574533 423.572239,508.743909 312.503961,508.743909 C201.444453,508.743909 111.41303,418.574533 111.41303,307.355683 C111.41303,226.714334 158.756914,157.181696 227.111345,125.02351 L251.831183,0.965975005 C108.624485,29.2514795 0.616592193,155.6537 0.616592193,307.355683" id="path-3"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-200.000000, -189.000000)">
+            <g id="logo" transform="translate(200.000000, 189.000000)">
+                <g id="g15" transform="translate(239.000000, 0.000000)">
+                    <g id="polygon28-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="SVGID_3_"></g>
+                        <polygon id="polygon28" fill="#FFFFFF" mask="url(#mask-2)" points="411.650143 219.85484 95.2849784 534.479079 -221.071373 219.85484 95.2849784 -94.7606349"></polygon>
+                    </g>
+                </g>
+                <g id="g30" transform="translate(0.000000, 26.000000)">
+                    <g id="polygon43-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="SVGID_6_"></g>
+                        <polygon id="polygon43" fill="#FFFFFF" mask="url(#mask-4)" points="933.323544 310.332643 312.503961 932.042938 -308.306852 310.332643 312.503961 -311.377652"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
